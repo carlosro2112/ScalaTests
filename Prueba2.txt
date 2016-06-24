@@ -1,7 +1,9 @@
-este es oytro
+﻿este es oytro
 
 prueba2
 
 mod in mac por segunda vez
 
 también en mi branch…
+
+pasando a dev
